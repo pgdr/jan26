@@ -6,6 +6,9 @@ Antipasti
 Taco
 Hamburger
 
+# Deserts
+Ice cream
+
 # Drinks
 Alcohol-free beer
 Water
