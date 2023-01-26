@@ -9,3 +9,4 @@ Hamburger
 # Drinks
 Alcohol-free beer
 Water
+Coffee
