@@ -5,7 +5,7 @@ Soup
 
 # Main courses
 Taco
-Hamburger
+Vegan Hamburger
 
 # Deserts
 Ice cream
