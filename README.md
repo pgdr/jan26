@@ -1,19 +1,21 @@
-# Starters
+# Our menu
+
+## Starters
 
 * Bread
 * Antipasti
 * Soup
 
-# Main courses
+## Main courses
 
 * Taco
 * Vegan Hamburger and fries
 
-# Deserts
+## Deserts
 
 * Ice cream
 
-# Drinks
+## Drinks
 
 * Alcohol-free beer
 * Sparkles
