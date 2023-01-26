@@ -1,17 +1,21 @@
 # Starter
-Bread
-Antipasti
-Soup
+
+* Bread
+* Antipasti
+* Soup
 
 # Main courses
-Taco
-Vegan Hamburger and fries
+
+* Taco
+* Vegan Hamburger and fries
 
 # Deserts
-Ice cream
+
+* Ice cream
 
 # Drinks
-Alcohol-free beer
-Water
-Coffee
-Tea
+
+* Alcohol-free beer
+* Water
+* Coffee
+* Tea
