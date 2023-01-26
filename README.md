@@ -1,4 +1,4 @@
-# Starter
+# Starters
 
 * Bread
 * Antipasti
