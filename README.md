@@ -16,6 +16,7 @@
 # Drinks
 
 * Alcohol-free beer
+* Sparkles
 * Water
 * Coffee
 * Tea
