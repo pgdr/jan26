@@ -5,7 +5,7 @@ Soup
 
 # Main courses
 Taco
-Hamburger
+Hamburger and fries
 
 # Deserts
 Ice cream
