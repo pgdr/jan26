@@ -1,3 +1,10 @@
+# Starter
+Bread
+
+# Main courses
 Taco
-Pizza
 Hamburger
+
+# Drinks
+Alcohol-free beer
+Water
